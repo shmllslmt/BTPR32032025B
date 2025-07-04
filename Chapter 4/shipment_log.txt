@@ -1,0 +1,9 @@
+ShipmentID, HubName, ItemType, Quantity, WeightKG
+S001,HubA,Food,100,500.5
+S002,HubB,Water,200,750.0
+S003,HubA,Medicine,invalid_qty,100.0
+S004,HubC,Blankets,50
+S005,HubB,Hygiene,75,missing_weight
+S006,HubA,Tents,20,400.0
+S007,HubD,Fuel,10,150.0,extra_field
+S008,HubC,Tools,30,250.0
