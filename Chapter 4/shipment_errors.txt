@@ -1,0 +1,6 @@
+Row 2 cannot be converted due to invalid data: S003,HubA,Medicine,invalid_qty,100.0
+
+Row 3 is skipped due to index out of range: S004,HubC,Blankets,50
+
+Row 4 cannot be converted due to invalid data: S005,HubB,Hygiene,75,missing_weight
+
