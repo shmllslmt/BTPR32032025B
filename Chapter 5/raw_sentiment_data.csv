@@ -1,0 +1,10 @@
+post_id,date,sentiment_score,text
+1,2024-06-01,0.7,"Great initiative for local clean-up!"
+2,2024-06-01,0.2,"Weather was okay today."
+3,2024-06-01,NaN,"Not sure about this new policy."
+4,2024-06-02,-0.5,"Traffic is terrible again."
+5,2024-06-02,0.8,"Loving the new public art!"
+6,2024-06-02,,"This is confusing."
+7,2024-06-03,0.1,"Just thinking."
+8,2024-06-03,-0.9,"Absolutely furious with the decision."
+9,2024-06-03,0.5,"Hope for better days."
